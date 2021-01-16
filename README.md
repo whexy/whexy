@@ -15,11 +15,11 @@
 
 
 ## Latest blog posts
-- 2020-11-13 [Inline Assembly Language in C](https://www.whexy.com/post/inline-assembly-language-in-c/)
-- 2020-10-21 [React å­¦ä¹ ç¬”è®°](https://www.whexy.com/post/react-xue-xi-bi-ji/)
-- 2020-07-09 [ä¸º Apple Watch å†™ä¸€ä¸ªæ ¡å·´æ—¶åˆ»è¡¨å·¥å…·](https://www.whexy.com/post/yong-swiftui-wei-apple-watch-xie-yi-ge-jian-dan-de-app/)
-- 2020-05-28 [æ•°æ�®åº“å�Ÿç�†æœŸæœ«é¡¹ç›®ï¼šæ¨¡ä»¿12306çš„å…¨å›½ç�«è½¦ç¥¨åŠ¡ç®¡ç�†ç³»ç»Ÿ](https://www.whexy.com/post/qi-guai-de-ji-neng-zeng-jia-liao/)
-- 2020-02-27 [Sakai å’Œæœ¬åœ°æ–‡ä»¶å¤¹å�Œæ­¥](https://www.whexy.com/post/sakai-he-ben-di-wen-jian-jia-tong-bu/)
+- 2021-01-16 [DoublePlay: Parallelizing Sequential Logging and Replay](http://www.whexy.com/2021/01/16/DoublePlay-Parallelizing-Sequential-Logging-and-Replay/)
+- 2021-01-16 [Ninja: Towards Transparent Tracing and Debugging on ARM](http://www.whexy.com/2021/01/09/Ninja-Towards-Transparent-Tracing-and-Debugging-on-ARM/)
+- 2021-01-08 [Inline Assembly Language in C](http://www.whexy.com/2020/11/14/inline-assembly-language-in-c/)
+- 2020-10-21 [React 学习笔记](http://www.whexy.com/2020/10/21/react-xue-xi-bi-ji/)
+- 2020-08-11 [为 Apple Watch 写一个校巴时刻表工具](http://www.whexy.com/2020/07/09/yong-swiftui-wei-apple-watch-xie-yi-ge-jian-dan-de-app/)
 
 [>>> More blog posts](https://www.whexy.com/)
 
