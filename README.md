@@ -13,15 +13,18 @@
      \__\/         \__\/         \__\/         |__|/
 ```
 
+Hi. My name is [Wenxuan SHI](https://www.whexy.com), a junior student in SUSTech CSE.
+
+TAG: *System Security* (be in a lab), *Rustaceans* (fall in love with Rust), *Apple Guy* (write Swift), *music lover* ...
 
 ## Latest blog posts
-- 2021-01-16 [DoublePlay: Parallelizing Sequential Logging and Replay](http://www.whexy.com/2021/01/16/DoublePlay-Parallelizing-Sequential-Logging-and-Replay/)
-- 2021-01-16 [Ninja: Towards Transparent Tracing and Debugging on ARM](http://www.whexy.com/2021/01/09/Ninja-Towards-Transparent-Tracing-and-Debugging-on-ARM/)
-- 2021-01-08 [Inline Assembly Language in C](http://www.whexy.com/2020/11/14/inline-assembly-language-in-c/)
-- 2020-10-21 [React 学习笔记](http://www.whexy.com/2020/10/21/react-xue-xi-bi-ji/)
-- 2020-08-11 [为 Apple Watch 写一个校巴时刻表工具](http://www.whexy.com/2020/07/09/yong-swiftui-wei-apple-watch-xie-yi-ge-jian-dan-de-app/)
+- 2021-01-31 [理解 Rust 泛型特征 (Generic Trait)](http://www.whexy.com/2021/02/01/RUST-Generic-Trait/)
+- 2021-01-30 [Learning Rust](http://www.whexy.com/2021/01/30/RUST/)
+- 2021-01-28 [我的第一个万行项目](http://www.whexy.com/2021/01/28/SUSTEAM/)
+- 2021-01-25 [iReplayer: in-situ and identical record-and-replay for multithreaded applications](http://www.whexy.com/2021/01/25/iReplayer-in-situ-and-identical-record-and-replay-for-multithreaded-applications/)
+- 2021-01-25 [REPT: Reverse Debugging of Failures in Deployed Software](http://www.whexy.com/2021/01/21/REPT/)
 
-[>>> More blog posts](https://www.whexy.com/)
+[>>> More blog posts](https://www.whexy.com/writings)
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=whexy&theme=vue)
