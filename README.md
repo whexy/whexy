@@ -1,57 +1,39 @@
 
 ```
-                 GGLD:                          
-                DGLLKKG                         
-              :DGGLGEEGGLD                      
-           LGKGEDGGGGGGGGDDf                    
-        DEEDEKEDDDGGGGGDEKKED                   
-     ;DEGGGGGKKEEEGGDDDEDEKKKD LG               
-    DEDEEKKGGGEKWEEDDDEDEKKKWKDGK               
-   EEDGDDKKKDGDDKEEDDEEKWWWKW##W                
-   EDDDDDEKKEDDDEKEEEEKWGGGLGGG;                
-   KKWEEDEEKKDDDEKEEEKEGGGGGGGGGK               
-  KKKEWKEEEWKEDEEKEEKKDDDDDDDDDDEt              
-  KKWKEWEEEKKEEEEEEKWEEEEEEEEEEEEE              
-  WKKWKKWKEEKEEKKEEWKEEEKKKKKKKKKKf             
-  WWKWWKKKKEWKKKEEKKWKKKKKKWWWWWWWW             
-  #WWKWWWWWKWWWKEKWKWWWWWWWWWWWWWWK             
-  KKWWKWWE#WWWWKKWKKWWWWWWWWWWWWWWWD            
-  EEKWW;,,:::,iK##WWWWW#WW##WWWWWWWD            
- fEEED;,,,:::::.....:::,;jL#WWWWWWWE            
- LEDE;;,,:::::.......::::,,;G#WWWWWK            
-  EEt;;,,:::..........::::,,;jWWWWK,            
-  WEi;;,,::::..........:::,,;;KKWKW             
-  KEi;;,,:::::........::::,,;;tEEKG             
-  EDi;iGGGD::::.....::::::,,;;iEEK              
-  KtiDDLtijLG,::..:::,fLf,,,;iiEEK              
-  Ktit;,,,,,,,,::::,,iLDGGG,;iiEEKL             
-  Kti;,,,,,,,;,,,,,,,,,,,,;D;iiEKWj             
-  Kt;;,,,,,,;;,,,,,,,,,,,,,,GitEKW              
-  Lt;;,,;;;;;;,,:,;;;,,,,,,,;itKKK              
-:,jt;,####;;;;,::,;;;;;,,,,,;itKWW              
-j:ji;D K,#Et;i,::,;;;;W#G;,,;itDW               
-iijif.,W###,;i,::,i;EEEEKKE,;tjGW               
-;:ji,..E##E:Ki,.:;it E ##K ;;tjfE,              
-  ji,:.DWWf..i,.:;i: E###G.W;tjf:;              
- :ji,:::it.:,;:.:;i..E##DE.:;tjj,j              
- iti;::...::,,:.:,,:: DjD..,itjjj;              
- iti;,::::::,;,,,,,:::....:,itjj.,              
-ftti;,,:::::,;::;,:::....:,;itjj,:              
-  ji;;,,::::t,..,t::::.:::,;itjt                
-  ji;;,,:::,j,::,j,::::::,;;ijji                
-  jti;;,,::,;Lttfi,::::,,,;itjff                
-  fti;;,,,::::;;,:::::,,,;;itf t                
-  tti;;,,,:,::...::::,,,;;itjL                  
-   jti;;,,,,,i;;,,,:,,,;;iitj                   
-   jtii;,,;tEW##Dj;,,,,;;itjL                   
-   jjti;;,;LWWWWWWj;,,;;iitj                    
-    ftii;;,tDGGDEWi,,;;iitjL                    
-     jtii;;iiitfLt;,;;iitjf                     
-      ftii;;jitttt;;;iitjf                      
-       jtiiiitjjt;;iittjf                       
-        ftiiiiiiiiiitjf                         
-         fjtttiiiittjL                          
-           ;Lfjjjjf;                            
+                       GLGLGKKi                   
+                    EGGGGGLDGGGGGGGE              
+            ,DEDGEKKEGDDGGGGGGGGDEKKEDt           
+        GDEGGDDGGGDEKKKEEDGGDDDEEDDEKKKEGtGG;     
+      EEGGGDEEKKKGGGDDKWEEDDDDEEKKWWKKWWWWW;      
+     KEEEEEDDDEKKKDDDDEEKKEEEEK#DGGGGLGGGGE       
+    WKKEEWWEEDEEWKEEDEEEKEEKKKDDDDDDDDDDGGDDE     
+   .KKKWKKEKKEEEKWKEEEEKEEEWKEEEEEEEEEEEEEEEEK    
+   .WWKKWWKKKKKEEWKKKKEEEEWKKKKKKKWKKWWWWWWWKKK   
+    W#WWKKWWWWWWKWWWWKEKKWEEWWWWWWWWWWWWWWWWWWW.  
+    EEEKWWW;,,,::,tKWWWWWWKWWWWWWWWW##WWWWWWWWWD  
+   DKEEEE;;,,,::::::........:::::,itfWWWWWWWWWWE  
+   jKEEfi;,,,:::::............:::::,,,;;WWWWWWWK  
+    WKKi;;,,,:::::.............::::,,,;;;KKKWKW   
+   .KDii;;iGGGf,::::.......::::::::,,,;;ifEEEK.   
+    WKtiDDt:,,,,,,,,:::::::::GGGGGDi,,;;iiEEEKf   
+    Ktii;;,,,,,,,,,,,,::,,,,,,,,,,:tDD;;iiEKKKD   
+    Kji;;,,,,,,,,;;;,,,,,,;;,,,,,,,,,;DiitKKWW    
+  ,,Kti;,,K###t;;;;;,,:,,;;;;,;,,,,,,,;iitKKWi    
+  L,fti;j Ki ##E#;;;,:::,;;;;f####f,,,;itjGKW     
+  ;jjt;:..E####DiKii,:.:;i;# K K#WE #,;itjfW      
+    jt;,::.EGLtE..i;:..:;ij.tE####G .W;itjf,,t    
+   tji;,::...::::,,,:..:,,,:.,DLjj..:,;ttjjtt;    
+   ijii;,::::::::,,;,,,,,,:::......::;itjjf  ,    
+    jti;;,,::::::;;:..:;;::::....::,,;itjjj,      
+    ftii;;,,,:::,it,::,it,::::::::,,;iitjfi       
+    ;tti;;;,,,:::,:;tft,,::::::,,,;;iitjffL:      
+     jtii;;,,,,,,,:....::,:::,,,,;;iittf          
+     jjtii;;,,,;;fGKWEfti,,,,,,;;;iittf           
+      Ljtii;;,,;iWWWWWWWWf;,,,;;;iitjj            
+       .jttii;;;iifjjjfLi;,,;;;iittjf             
+         tjttii;;ifttttji;;;iiittjf               
+           .fttiiiiiiiiiiiiitjjfi                 
+              ;jjtttttttttjjL.                    
 ```
 
 Hi. My name is [Wenxuan SHI](https://www.whexy.com), a junior student in SUSTech CSE.
