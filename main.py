@@ -7,43 +7,36 @@ nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w+') as f:
     f.write(r'''
 ```
-+--------------------------------------------------+----------------------------+
-|                       GLGLGKKi                   |                            |
-|                    EGGGGGLDGGGGGGGE              |                            |
-|            ,DEDGEKKEGDDGGGGGGGGDEKKEDt           |                            |
-|        GDEGGDDGGGDEKKKEEDGGDDDEEDDEKKKEGtGG;     |              t             |
-|      EEGGGDEEKKKGGGDDKWEEDDDDEEKKWWKKWWWWW;      |        t ttttttttt t       |
-|     KEEEEEDDDEKKKDDDDEEKKEEEEK#DGGGGLGGGGE       |      ttttttjjjjjjjjjj      |
-|    WKKEEWWEEDEEWKEEDEEEKEEKKKDDDDDDDDDDGGDDE     |     jjjjjjjjjjjjjjjjjjj    |
-|   .KKKWKKEKKEEEKWKEEEEKEEEWKEEEEEEEEEEEEEEEEK    |    jjjjjjjj#jjjjffffffff   |
-|   .WWKKWWKKKKKEEWKKKKEEEEWKKKKKKKWKKWWWWWWWKKK   |    ffffffff##ff##fffffff   |
-|    W#WWKKWWWWWWKWWWWKEKKWEEWWWWWWWWWWWWWWWWWWW.  |   ffj fffff#fffffffDf Dff  |
-|    EEEKWWW;,,,::,tKWWWWWWKWWWWWWWWW##WWWWWWWWWD  |     f   ff       LL  D     |
-|   DKEEEE;;,,,::::::........:::::,itfWWWWWWWWWWE  |           GG   Gi          |
-|   jKEEfi;,,,:::::............:::::,,,;;WWWWWWWK  |                            |
-|    WKKi;;,,,:::::.............::::,,,;;;KKKWKW   |                            |
-|   .KDii;;iGGGf,::::.......::::::::,,,;;ifEEEK.   |          Rustaceans        |
-|    WKtiDDt:,,,,,,,,:::::::::GGGGGDi,,;;iiEEEKf   |                            |
-|    Ktii;;,,,,,,,,,,,,::,,,,,,,,,,:tDD;;iiEKKKD   |                            |
-|    Kji;;,,,,,,,,;;;,,,,,,;;,,,,,,,,,;DiitKKWW    +----------------------------+
-|  ,,Kti;,,K###t;;;;;,,:,,;;;;,;,,,,,,,;iitKKWi    |                            |
-|  L,fti;j Ki ##E#;;;,:::,;;;;f####f,,,;itjGKW     |                            |
-|  ;jjt;:..E####DiKii,:.:;i;# K K#WE #,;itjfW      |               ttt          |
-|    jt;,::.EGLtE..i;:..:;ij.tE####G .W;itjf,,t    |              ttti          |
-|   tji;,::...::::,,,:..:,,,:.,DLjj..:,;ttjjtt;    |        ,ttt     ttt.       |
-|   ijii;,::::::::,,;,,,,,,:::......::;itjjf  ,    |      ttttttttttttttttt     |
-|    jti;;,,::::::;;:..:;;::::....::,,;itjjj,      |    :;;;;;;;;;;;;;;;;,      |
-|    ftii;;,,,:::,it,::,it,::::::::,,;iitjfi       |    ttttttttttttttttt       |
-|    ;tti;;;,,,:::,:;tft,,::::::,,,;;iitjffL:      |    ttttttttttttttttt       |
-|     jtii;;,,,,,,,:....::,:::,,,,;;iittf          |    tLLLLLLLLLLLLLLLLL      |
-|     jjtii;;,,,;;fGKWEfti,,,,,,;;;iittf           |     LLLLLLLLLLLLLLLLLLL    |
-|      Ljtii;;,,;iWWHEXYWWf;,,,;;;iitjj            |      LLLLLLLLLLLLLLLLG     |
-|       .jttii;;;iifjjjfLi;,,;;;iittjf             |       .fffffffffffff       |
-|         tjttii;;ifttttji;;;iiittjf               |                            |
-|           .fttiiiiiiiiiiiiitjjfi                 |                            |
-|              ;jjtttttttttjjL.                    |          Apple Fan         |
-|                                                  |                            |
-+--------------------------------------------------+----------------------------+
++--------------------------------------------------------------------------------+
+|           ___           ___           ___           ___                        |
+|          /__/\         /__/\         /  /\         /__/+          ___          |
+|         _\_ \:\        \  \:\       /  /:/_       +  +:|         /__/+         |
+|        /__/\ \:\        \__\:\     /  /:/ /\      |  |:|        +  +:|         |
+|       _\_ \:\ \:\   ___ /  /::\   /  /:/ /:/_   __+__+:+        |  |:|         |
+|      /__/\ \:\ \:\ /__/\  /:/\:\ /__/:/ /:/ /\ /__/::::\____  __+__+:+         |
+|      \  \:\ \:\/:/ \  \:\/:/__\/ \  \:\/:/ /:/    ~\~~\::::/ /__/::::\         |
+|       \  \:\ \::/   \  \::/       \  \::/ /:/      +~~+:+~~     ~\~~\:\        |
+|        \  \:\/:/     \  \:\        \  \:\/:/       |  |:|         \  \:\       |
+|         \  \::/       \  \:\        \  \::/        |  |:+          \__\/       |
+|          \__\/         \__\/         \__\/         +__+/                       |
+|                                                                                |
++---------------------------+--------------------------+-------------------------+
+|                           |                          |                         |
+|                           |              ttt         |            i  :j        |
+|             t             |             ttti         |         jjjjjj:         |
+|       t ttttttttt t       |       ,ttt     ttt.      |       jjjjjjjj  ,t      |
+|     ttttttjjjjjjjjjj      |     ttttttttttttttttt    |      jjjjjjjjjjjjjt     |
+|    jjjjjjjjjjjjjjjjjjj    |   :;;;;;;;;;;;;;;;;,     |     :jjjjjjjjjjjjj      |
+|   jjjjjjjj#jjjjffffffff   |   ttttttttttttttttt      |      .jjjj ;jj jj       |
+|   ffffffff##ff##fffffff   |   ttttttttttttttttt      |          ji   ;         |
+|  ffj fffff#fffffffDf Dff  |   tLLLLLLLLLLLLLLLLL     |        tjjj,jjjj        |
+|    f   ff       LL  D     |    LLLLLLLLLLLLLLLLLLL   |         j  ,  j         |
+|          GG   Gi          |     LLLLLLLLLLLLLLLLG    |         .j j:j;         |
+|                           |      .fffffffffffff      |           jjj           |
+|                           |                          |                         |
+|         Rustaceans        |          Apple Fan       |         SUSTecher       |
+|                           |                          |                         |
++---------------------------+--------------------------+-------------------------+
 ```
 
 Hi. My name is [Wenxuan SHI](https://www.whexy.com), a junior student in SUSTech CSE.
