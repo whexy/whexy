@@ -6,44 +6,22 @@ root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w+') as f:
     f.write(r'''
-```
-+--------------------------------------------------------------------------------+
-|           ___           ___           ___           ___                        |
-|          /__/\         /__/\         /  /\         /__/+          ___          |
-|         _\_ \:\        \  \:\       /  /:/_       +  +:|         /__/+         |
-|        /__/\ \:\        \__\:\     /  /:/ /\      |  |:|        +  +:|         |
-|       _\_ \:\ \:\   ___ /  /::\   /  /:/ /:/_   __+__+:+        |  |:|         |
-|      /__/\ \:\ \:\ /__/\  /:/\:\ /__/:/ /:/ /\ /__/::::\____  __+__+:+         |
-|      \  \:\ \:\/:/ \  \:\/:/__\/ \  \:\/:/ /:/    ~\~~\::::/ /__/::::\         |
-|       \  \:\ \::/   \  \::/       \  \::/ /:/      +~~+:+~~     ~\~~\:\        |
-|        \  \:\/:/     \  \:\        \  \:\/:/       |  |:|         \  \:\       |
-|         \  \::/       \  \:\        \  \::/        |  |:+          \__\/       |
-|          \__\/         \__\/         \__\/         +__+/                       |
-|                                                                                |
-+---------------------------+--------------------------+-------------------------+
-|                           |                          |                         |
-|                           |              ttt         |            i  :j        |
-|             t             |             ttti         |         jjjjjj:         |
-|       t ttttttttt t       |       ,ttt     ttt.      |       jjjjjjjj  ,t      |
-|     ttttttjjjjjjjjjj      |     ttttttttttttttttt    |      jjjjjjjjjjjjjt     |
-|    jjjjjjjjjjjjjjjjjjj    |   :;;;;;;;;;;;;;;;;,     |     :jjjjjjjjjjjjj      |
-|   jjjjjjjj#jjjjffffffff   |   ttttttttttttttttt      |      .jjjj ;jj jj       |
-|   ffffffff##ff##fffffff   |   ttttttttttttttttt      |          ji   ;         |
-|  ffj fffff#fffffffDf Dff  |   tLLLLLLLLLLLLLLLLL     |        tjjj,jjjj        |
-|    f   ff       LL  D     |    LLLLLLLLLLLLLLLLLLL   |         j  ,  j         |
-|          GG   Gi          |     LLLLLLLLLLLLLLLLG    |         .j j:j;         |
-|                           |      .fffffffffffff      |           jjj           |
-|                           |                          |                         |
-|         Rustaceans        |          Apple Fan       |         SUSTecher       |
-|                           |                          |                         |
-+---------------------------+--------------------------+-------------------------+
-```
+**Hooray! You found me.**
 
-Hi. My name is [Wenxuan SHI](https://www.whexy.com), a junior student in SUSTech CSE.
+[![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.whexy.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/whexy)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:gwhexy@gmail.com)
+
+The name is SHI Wenxuan, I use he/him/his pronouns. 
+
+- I work on topics related to *system*. I fight with the compiler, linker, OS, firmware, bootloader, etc.
+- I work on topics related to *security*. I keep eyes on the CVEs, vulnerabilities, malicious codes, etc.
+- I know nothing about artificial intelligence.
+- I use Vim. I love Rust. I prefer spaces rather than tab.
 
 TAG: *System Security* (be in a lab), *Rustaceans* (fall in love with Rust), *Apple Guy* (write Swift), *music lover* ...
 
-## Latest blog posts
+## My blog posts
 ''')
     for entry in root.findall('nsfeed:entry', nsfeed)[:5]:
         text = entry.find('nsfeed:title', nsfeed).text
