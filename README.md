@@ -15,11 +15,11 @@ The name is SHI Wenxuan, I use he/him/his pronouns.
 TAG: *System Security* (be in a lab), *Rustaceans* (fall in love with Rust), *Apple Guy* (write Swift), *music lover* ...
 
 ## My blog posts
-- 2021-05-06 [使用 Latex Workshop 自带的 Latexindent 做论文源码格式化](http://www.whexy.com/2021/05/06/usingLatexindent/)
-- 2021-02-21 [Variance in Rust](http://www.whexy.com/2021/02/21/Variance-in-Rust/)
-- 2021-02-13 [macOS 的终极键盘改键方案](http://www.whexy.com/2021/02/13/macOS-%E7%9A%84%E7%BB%88%E6%9E%81%E9%94%AE%E7%9B%98%E6%94%B9%E9%94%AE%E6%96%B9%E6%A1%88/)
-- 2021-01-31 [理解 Rust 泛型特征 (Generic Trait)](http://www.whexy.com/2021/02/01/RUST-Generic-Trait/)
-- 2021-05-09 [Learning Rust: The First Day](http://www.whexy.com/2021/01/30/RUST/)
+- 2021-08-16 [Using QEMU to run Linux images on M1 Macbook](https://www.whexy.com/posts/m1qemu/)
+- 2021-07-24 [Alligator In Vest - My first research work](https://www.whexy.com/posts/investigator/)
+- 2021-06-20 [Use iTerm2 and zsh](https://www.whexy.com/posts/Use-iTerm2-and-zsh/)
+- 2021-05-06 [几个 LaTeX 插件的使用](https://www.whexy.com/posts/usingLatexAddons/)
+- 2021-02-21 [Variance in Rust (Rust 中的协变、逆变与不变)](https://www.whexy.com/posts/Variance-in-Rust/)
 
 [>>> More blog posts](https://www.whexy.com/writings)
 

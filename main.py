@@ -1,7 +1,7 @@
 import requests
 import xml.etree.ElementTree as ET
 
-feed = requests.get('https://www.whexy.com/atom.xml').text
+feed = requests.get('https://www.whexy.com/feed/feed.xml').text
 root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w+') as f:
