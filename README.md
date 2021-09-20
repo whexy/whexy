@@ -21,7 +21,7 @@ TAG: *System Security* (be in a lab), *Rustaceans* (fall in love with Rust), *Ap
 - 2021-06-20 [Use iTerm2 and zsh](https://www.whexy.com/posts/Use-iTerm2-and-zsh/)
 - 2021-05-06 [几个 LaTeX 插件的使用心得](https://www.whexy.com/posts/usingLatexAddons/)
 
-[>>> More blog posts](https://www.whexy.com/writings)
+[>>> More blog posts](https://www.whexy.com/posts)
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=whexy&theme=vue)

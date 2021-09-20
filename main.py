@@ -30,7 +30,7 @@ TAG: *System Security* (be in a lab), *Rustaceans* (fall in love with Rust), *Ap
         f.write('- {} [{}]({})\n'.format(published, text, url))
 
     f.write('''
-[>>> More blog posts](https://www.whexy.com/writings)
+[>>> More blog posts](https://www.whexy.com/posts)
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=whexy&theme=vue)
