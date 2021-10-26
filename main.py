@@ -9,7 +9,6 @@ with open('README.md', 'w+') as f:
 **Hooray! You found me.**
 
 [![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.whexy.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/whexy)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:gwhexy@gmail.com)
 
 The name is SHI Wenxuan, I use he/him/his pronouns. 
