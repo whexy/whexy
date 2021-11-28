@@ -2,18 +2,14 @@
 **Hooray! You found me.**
 
 <p align="center">
-  <img src="https://www.whexy.com/badge.svg?">
+  <img src="https://www.whexy.com/intro.svg?">
 </p>
 
-## Links
+<h4 align="center">
+  <b>An undergraduate student from Southern University of Science and Technology</b>
+</h4>
 
-- [My Blog (whexy.com)](https://whexy.com), or [CDN (www.whexy.com)](https://www.whexy.com)
-
-- [More about Me (shiwx.org)](https://shiwx.org), or [CDN version](https://www.whexy.com/about)
-
-- [Read the posts](https://whexy.com/posts), or [CDN version](https://www.whexy.com/posts)
-
-It is strongly recommended that users in mainland China access the CDN version.
-
-## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=whexy&theme=vue)
+### I am...
+* 🎓 A Computer Science [student (shiwx.org)](https://www.whexy.com/about) interested in System Security.
+* 👨‍💻 A [bloger (whexy.com)](https://www.whexy.com).
+* 🛠 A developer who is obsessed with building his own stuff.
