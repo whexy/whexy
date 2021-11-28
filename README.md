@@ -10,6 +10,6 @@
 </h4>
 
 ### I am...
-* 🎓 A Computer Science [student (shiwx.org)](https://www.whexy.com/about) interested in System Security.
+* 🎓 A [Computer Science student (shiwx.org)](https://www.whexy.com/about) interested in System Security.
 * 👨‍💻 A [bloger (whexy.com)](https://www.whexy.com).
 * 🛠 A developer who is obsessed with building his own stuff.
