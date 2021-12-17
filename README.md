@@ -12,32 +12,32 @@
 I have a free and useless soul. If you have time, I can read a little poem translated by myself.
 
 ```
-I want to waste time with you, looking down at the fishes
-Leaving the teapots on the table
-Wasting their good looking shadows
+I want to waste time with you, looking down at the fish
+Leaving the teapot on the table
+Wasting their nice shadows
 
-I also want to waste the sunset, by amble
-Until the starlight taking the sky
+I want to waste the sunset too, by ambling
+Until the stars spill across the sky
 I want to waste the wind
 Sitting on the ground, watching the dark clouds in your eyes
-are blowed outside the window
+Being blown out the window
 
-I have already wasted the world, as it past me
-Tired, never been loved
-But I am still going to do this tomorrow, wasting
+I've wasted the world as it passes me by
+Tired and never loved
+But I'll do it tomorrow, wasted
 All the flowers, life should be as beautiful as they were
 
-And as meaningless as they were, like the movie I wasted
-Those desperate love and death
-Bringing us a short silence
+And as meaningless as they were, like the movies I wasted
+Those of desperate love and death
+Bring us brief moments of silence
 
-I want to waste them all with you
-The short silence, the long meaning or meaninglessness
-The subtle, old universe
-Lying on the fence, looking down at the mirror made by water
+I want to waste them with you
+Brief silences, long meaningful or meaninglessness
+The subtle and ancient universe
+Leaning against the fence, looking down at the mirror made of water
 
-Until all the wasted stuff
-Growing wings behind us.
+Until all that is wasted
+grows wings behind us.
 ```
 
 ---
