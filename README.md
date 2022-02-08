@@ -7,6 +7,9 @@
 * 👨‍💻 A [bloger (whexy.com)](https://www.whexy.com).
 * 🛠 A developer who is obsessed with building his own stuff.
 
+⊹ Matrix ⊹ is an open, lightweight protocol for decentralized, real-time communication.
+Join me [@whexy:matrix.org](https://matrix.to/#/@whexy:matrix.org)
+
 ### To Judgers
 
 I have a free and useless soul. If you have time, I can read a little poem translated by myself.
